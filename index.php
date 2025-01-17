@@ -1,5 +1,3 @@
 <?php
 
-echo "Hello World!";
-echo "M9!";
-echo "M9!";
+echo "Hello World! /n M9!/n M9!/n M9!/n M9!";
